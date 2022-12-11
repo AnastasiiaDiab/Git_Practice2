@@ -3,3 +3,9 @@ SDET
 Developer
 
 Java
+
+Scrum
+
+PO
+
+Dev team
