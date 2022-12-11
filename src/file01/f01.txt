@@ -1,5 +1,3 @@
 Practicing Git
 
 git is fun
-
-we all learned something new
